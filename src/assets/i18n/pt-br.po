@@ -3,142 +3,156 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Language: pt_BR\n"
 
 msgid " Built-in Groups"
-msgstr ""
+msgstr " Grupos Incorporados"
 
 msgid " Builtin Users"
-msgstr ""
+msgstr " Usuários Incorporados"
 
 msgid " Check Notifications for more details."
-msgstr ""
+msgstr " Verifique as Notificações para mais detalhes."
 
 msgid " Download Updates"
-msgstr ""
+msgstr " Download de Atualizações"
 
 msgid " First data vdev is a "
-msgstr ""
+msgstr " Primeiro Dado vdev é um "
 
 msgid " First vdev has "
-msgstr ""
+msgstr " Primeiro vdev contém"
 
 msgid " First vdev is a "
-msgstr ""
+msgstr " Primeiro vdev é um"
 
 msgid " KiB."
-msgstr ""
+msgstr " KiB."
 
 msgid " Plugin"
-msgstr ""
+msgstr " Plugin"
 
 msgid " Service"
-msgstr ""
+msgstr " Serviço"
 
 msgid ""
 " When the <b>UPS Mode</b> is set to <i>slave</i>. Enter the open network "
 "port number of the UPS <i>Master</i> system. The default port is "
 "<i>3493</i>."
 msgstr ""
+" Quando o <b>modo UPS</b> está definido como <i>escravo</i>. Digite o "
+"número da porta da rede do sistema UPS <i>Mestre</i>. A porta padrão é "
+"<i>3493</i>."
 
 msgid ""
 " a passphrase invalidates an existing pool  recovery key file. To save a "
 "backup of the existing encryption key  without making any changes, click "
 "<b>DOWNLOAD ENCRYPTION KEY</b>."
 msgstr ""
+" uma frase-secreta invalida um arquivo-chave de recuperação do POOL existente. Para salvar um "
+"backup da chave de criptografia existente sem fazer alterações, clique em "
+"<b>DOWNLOAD da CHAVE CRIPTOGRAFADA</b>."
 
 msgid ""
 " addresses. When this has been chosen, additional addresses cannot be "
 "selected."
 msgstr ""
+" endereços. Quando isso for escolhido, endereços adicionais não podem ser "
+"selecionados."
 
 msgid " and "
-msgstr ""
+msgstr " e "
 
 msgid " and all snapshots of it?"
-msgstr ""
+msgstr " e todos os seus snapshots?"
 
 msgid " and will be disrupted if the pool is detached:"
-msgstr ""
+msgstr " e será interrompido se o pool for desanexado:"
 
 msgid " and will be disrupted if the pool is locked:"
-msgstr ""
+msgstr " e será interrompido se o pool for bloqueado:"
 
 msgid " built-in groups (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " grupos incorporados (configuração padrão é <i>oculto</i>."
 
 msgid " builtin users (default setting is <i>hidden</i>)."
-msgstr ""
+msgstr " usuários incorporados (configuração padrão é <i>oculto</i>."
 
 msgid " but datastore "
-msgstr ""
+msgstr "mas armazenamento de dados "
 
 msgid " disks"
-msgstr ""
+msgstr " discos"
 
 msgid " disks, new vdev has "
-msgstr ""
+msgstr " discos, novo vdev possuí "
 
 msgid " has been unlocked."
-msgstr ""
+msgstr " foi desbloqueado."
 
 msgid " is "
-msgstr ""
+msgstr " é "
 
 msgid " is a required field."
-msgstr ""
+msgstr " é um campo obrigatório."
 
 msgid " is required."
-msgstr ""
+msgstr " é obrigatório."
 
 msgid ""
 " is still running,  the Guest OS did not respond as expected. It is "
 "possible to use <i>Power Off</i> or the <i>Force Stop  After Timeout</i> "
 "option to stop the VM."
 msgstr ""
+" ainda está em execução, o OS convidado não respondeu como esperado. É "
+"possível usar o <i>Desligar</i> ou a opção <i>Parada forçada depois do tempo esgotado</i> "
+"para parar a VM."
 
 msgid ""
 " is the minimum recommended record size. Choosing a smaller size can reduce "
 "system performance."
 msgstr ""
+" é o tamanho minímo de registro recomendado. Escolhendo um tamanho menor pode reduzir "
+"o desempenho do sistema"
 
 msgid " official plugins"
-msgstr ""
+msgstr " plugins oficiais"
 
 msgid " seconds"
-msgstr ""
+msgstr " segundos"
 
 msgid " seconds."
-msgstr ""
+msgstr " segundos."
 
 msgid " service has been enabled."
-msgstr ""
+msgstr " serviço foi ativado."
 
 msgid " should be at least "
-msgstr ""
+msgstr " deve ser pelo menos "
 
 msgid " should be no more than "
-msgstr ""
+msgstr " deve ser não mais que "
 
 msgid " successfully saved."
-msgstr ""
+msgstr " salvo com sucesso."
 
 msgid " successfully unlocked"
-msgstr ""
+msgstr " desbloqueado com sucesso"
 
 msgid " system is powered on and connected to the network."
-msgstr ""
+msgstr " sistema está ligado e conectado a rede."
 
 msgid " to include all "
-msgstr ""
+msgstr " para incluir todos "
 
 msgid " update successful"
-msgstr ""
+msgstr " atualizado com sucesso"
 
 msgid " updated."
-msgstr ""
+msgstr " atualizado."
 
 msgid "% of all cores"
-msgstr ""
+msgstr "% de todos os núcleos"
 
 msgid ""
 "' is encrypted! If the passphrase for this encrypted pool has been lost, "
@@ -146,42 +160,46 @@ msgid ""
 "encrypted pools, download and safely store the encryption key and any "
 "passphrase for it."
 msgstr ""
+"' está criptografado! Se a senha deste criptografado POOL for perdida, "
+"os dados serão PERMANENTEMENTE IRRECUPERÁVEIS! Antes de exportar/desconectar "
+"POOLS criptografados, faça o download e armazene com segurança a chave de criptografia e qualquer "
+"senha associada ao pool."
 
 msgid "'. All data on that pool was destroyed."
-msgstr ""
+msgstr "'. Todos os dados deste POOL foram destruídos."
 
 msgid "(24 Hours)"
-msgstr ""
+msgstr "(24 Horas)"
 
 msgid "(Examples: 500 KiB, 500M, 2 TB)"
-msgstr ""
+msgstr "(Exemplos: 500 KiB, 500M, 2 TB)"
 
 msgid "(Legacy Encryption)"
-msgstr ""
+msgstr "(Criptografia herdada)"
 
 msgid "(No description)"
-msgstr ""
+msgstr "(Sem Descrição)"
 
 msgid "(Remove pool from database)"
-msgstr ""
+msgstr "(Remover o POOL da base de dados)"
 
 msgid "(top-right), then"
-msgstr ""
+msgstr "(superior-direito), então"
 
 msgid ", new Metadata vdev is a "
-msgstr ""
+msgstr ", novo Metadata vdev é um "
 
 msgid ", new vdev is "
-msgstr ""
+msgstr ", novo vdev é "
 
 msgid ". At least one is required."
-msgstr ""
+msgstr ". Ao menos um é requirido."
 
 msgid ". Is this correct?"
-msgstr ""
+msgstr ". Isto está correto?"
 
 msgid "... Make sure the "
-msgstr ""
+msgstr "... Verifique se o "
 
 msgid "0=Disabled, blank=inherit"
 msgstr ""
